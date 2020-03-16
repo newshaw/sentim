@@ -1,4 +1,6 @@
 # Here we draw graphics for political parties in various selections
+
+from textblob_de import TextBlobDE as TextBlob
 from prettytable import PrettyTable
 import matplotlib.pyplot as plt
 import re
